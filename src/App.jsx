@@ -13,7 +13,7 @@ function App() {
   }
 
   return(
-    <div class="main">
+    <div className="main">
       <Navbar trucks={trucks} handleTruckClick={handleTruckClick} />
       <Map locations={trucks.map(({ location }) => location)} selectedLocation={selectedLocation} />
     </div>
