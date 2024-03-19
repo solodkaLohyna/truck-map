@@ -1,0 +1,86 @@
+[
+  {
+    "number": "AD12312",
+    "location": [-89.52860210337181, 40.69526227483255],
+    "loadCapacity": 20,
+    "truckLength": 60,
+    "height": 13,
+    "driver": {
+      "avatar": "https://i.pinimg.com/originals/3d/83/aa/3d83aad86998a25592f716bb738c54d6.jpg",
+      "carImg": "https://i.pinimg.com/originals/f5/e7/fb/f5e7fb3e5b397e508487b220889889c5.jpg"
+    },
+    "pinName": "truck-free"
+  },
+  {
+    "number": "AD45678",
+    "location": [-88.987654321, 41.123456789],
+    "loadCapacity": 18,
+    "truckLength": 70,
+    "height": 14,
+    "driver": {
+      "avatar": "https://i.pinimg.com/originals/85/de/c6/85dec6551b10da2990c514e547ae57dd.jpg",
+      "carImg": "https://i.pinimg.com/originals/92/a6/0b/92a60bf1f57a3de64d57b8f0d609cfcb.jpg"
+    },
+    "pinName": "truck-free"
+  },
+  {
+    "number": "AD78901",
+    "location": [-89.7654321, 40.9876543],
+    "loadCapacity": 22,
+    "truckLength": 75,
+    "height": 15,
+    "driver": {
+      "avatar": "",
+      "carImg": ""
+    },
+    "pinName": "truck-busy"
+  },
+  {
+    "number": "AD23456",
+    "location": [-89.1234567, 40.5432109],
+    "loadCapacity": 17,
+    "truckLength": 65,
+    "height": 12,
+    "driver": {
+      "avatar": "",
+      "carImg": ""
+    },
+    "pinName": "truck-free"
+  },
+  {
+    "number": "AD78910",
+    "location": [-88.7654321, 41.2345678],
+    "loadCapacity": 19,
+    "truckLength": 80,
+    "height": 13,
+    "driver": {
+      "avatar": "",
+      "carImg": ""
+    },
+    "pinName": "truck-free"
+  },
+  {
+    "number": "AD12345",
+    "location": [-89.3985283, 40.6331249],
+    "loadCapacity": 21,
+    "truckLength": 70,
+    "height": 14,
+    "driver": {
+      "avatar": "",
+      "carImg": ""
+    },
+    "pinName": "truck-free"
+  },
+  {
+    "number": "AD67890",
+    "location": [-89.0, 40.0],
+    "loadCapacity": 22,
+    "truckLength": 75,
+    "height": 15,
+    "driver": {
+      "avatar": "",
+      "carImg": ""
+    },
+    "pinName": "truck-busy"
+  }
+]
